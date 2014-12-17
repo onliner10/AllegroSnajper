@@ -1,0 +1,13 @@
+{
+	"credentials": {
+		"userLogin": "login",
+		"userPassword": "password",
+		"webapiKey": "apiKey"
+	},
+	"bidOptions" : {
+		"auctionId": 4762517874,
+		"bidPrice": 140,
+		"bidQuantity": 1,
+		"placeBidAt": "2014-12-17 11:53:00"
+	}
+}
